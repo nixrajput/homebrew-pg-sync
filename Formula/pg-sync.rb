@@ -14,9 +14,9 @@
 class PgSync < Formula
   desc "Interactive PostgreSQL dump / restore / sync helper for RDS-style databases"
   homepage "https://github.com/nixrajput/pg-sync"
-  url "https://github.com/nixrajput/pg-sync/releases/download/v1.0.0/pg-sync-1.0.0.tar.gz"
-  version "1.0.0"
-  sha256 "49f30267d468d62bca73b64d17a9db5d87f9ff92e422dce3c535d6a51bb8e6fa"
+  url "https://github.com/nixrajput/pg-sync/releases/download/v1.1.0/pg-sync-1.1.0.tar.gz"
+  version "1.1.0"
+  sha256 "af9945d15fe800354701d9b2a858c58c4af236aae3ec6deb17e72a3c141c12ec"
   license "MIT"
 
   depends_on "bash"
